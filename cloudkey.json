@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "drawingboard-gtbc",
+  "private_key_id": "dfe9b8412aa3fe64c5608d3686ce6f4869fa5ee6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC2KtNs2pNmH4vG\n82MmCttgIO012ts4h93O1hlSTez9+t/Q3T5kmCGEZukIErfLEpAayALHQ/9DNe67\nzL4Yg8tIA5XDOS2ZgRnToUUbtsJrrYp80DjiNEQMxXQTYqV/bFDw6S9gMqvG6eaC\nmAWMRUu+SaKjNhEIZ1GCKs1zEGhcZPUyUcR7QD6eGcsngAqYqMdpOdMNmUAkayPX\nQjN85BTbEhmMkrY7ZzyZiU15OhaZUcDaoMP3m1yncHtCMlwUtf5u2uNLnejDLd3X\n0n0kMrsh2e2WKtlA65o746SwYgwoNUcu1coZjNMHGhXVHruPxklENKplGpeMMvtv\nWKDqNCYdAgMBAAECggEAHsi/795EGHbuRRGuSKh/CBCoZXh1oWj8Z86wesMmcIkr\nt30b5R38VAacDLw1CQE7DvuL1Ka+BVqg3GWuHjBvct0AOvx3o0A44BWZuyQ4WL/7\n7jm10ywn78ySYBBEjXL9fqi5U9VcSAIQ7TLJhTnUofSJonEpkbT8BjY7f91e9XXl\nHCIU3XTa+3c72JYw53pHPgz5J3zX6kixquZz11/G6CFvhRMtH4cHN2S8Yk0PRig/\n4xEJj1JYL2szEYCoRQ9GY/4dabLrbj0SQgnVX0Z7lAeKajiGq8JxqCmIkvwD5JD7\nrK2+Inviyl/yxS/Q7h+NsYCmpa4LNha5ctD9qjiSwQKBgQDgFfAA/6CxzLWCo+Ch\nlOpp56r48bwSMgAOJKPo+GLYkJqB6mOc8BUsk1EerZY6uJYa1EmP9bwvapgJoiwv\n0dxUw9qQ2OgYojG+z63EunQLtzDgJsB4uEWpFMr1Z4txVWXK94MNt4mE4apo9LaJ\njrcIPeJM4t61yRZn8qRtJuj5LQKBgQDQHI/4hQmdf+fqq7/r/hlsFYk681fdgNzb\nx9XR0H45W36+M2xfVwNoYjgAxbxHPhsi1tFUOLP8ZqD0z3CH5WIZ1uiG+E7VBo17\nEt3i2ZRFuPLTYCNHB/ydNStMaL8lUNwxZnfoyCKS3ImDwGzcpDHoZmdCBGb+fb6f\ns9iwmk4WsQKBgFiwFgcvJRh5nrUPyw3odEZqDD7u3bKN23u9gKnp9KUlxiD49Wfd\nlWPJAmgT58th1vbTYjH53fseQwI9DyP1+TALO+vsDSACwZF1fJ7J9LfWTx/H9pFQ\nzTE4K4Oo8YVveRQ1lcbOBz1yWxGjGMOkmkhGxdQMTnzAE4Achns01SwZAoGAQTyy\n5PTPTtAJo0azowbEcV1O52vg307F7R93p430A4bq9DSqhDiCmPYxGAzkOHD/kKxG\ncmBUC4sgaZ2daPw/BFqaCbVNAPpM34fKhpIuKK0RcbFxXZLjXWSNbiZnxQrT+6hj\nblVOgTsg4Gwxs/jErFVtiQRYRO6mEuoNw06brAECgYAYSntYDVEAR5JGbQrEEulz\n4K3EXpurGERGY4KD9a8cud6kvqKMX0qaPOZfahUbPx+ma7Q1RWsQ2/WdttLcixfn\nEB2dRpv2A4Lhtf4nxbtcI3UyV8Qj6l0CbTS+m0axkJf1LEAmuwog2ceMUjykMRgy\nUPZx0LmNjTXTg3jq9bBSGg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "drawingboardcloud@drawingboard-gtbc.iam.gserviceaccount.com",
+  "client_id": "109517633796937092782",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/drawingboardcloud%40drawingboard-gtbc.iam.gserviceaccount.com"
+}
